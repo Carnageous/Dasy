@@ -1,7 +1,7 @@
 package main
 
 import (
-	Dasy "github.com/Carnageous/Dasy"
+	Dasy "github.com/Carnageous/dasy"
 )
 
 func main() {

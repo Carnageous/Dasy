@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	Dasy "github.com/Carnageous/Dasy"
+	Dasy "github.com/Carnageous/dasy"
 )
 
 func main() {
