@@ -10,7 +10,7 @@ func main() {
 
 	fmt.Println(c.ID)
 
-	err := c.ConnectToServer("127.0.0.1")
+	err := c.ConnectToServer("localhost:3004")
 
 	if err != nil {
 		fmt.Println(err)
